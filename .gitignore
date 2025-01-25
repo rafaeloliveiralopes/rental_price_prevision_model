@@ -21,3 +21,5 @@ ipython/
 *.bak
 *.tmp
 *.swp
+.virtual_documents/
+anaconda_projects/
