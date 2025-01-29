@@ -35,7 +35,7 @@ utilizando as métricas de avaliação que mais façam sentido para o problema.
  
 Qual seria a sua sugestão de preço?
 
-## Como Instalar e executar o projeto
+## Como executar o projeto
 
 Este projeto foi executado com o uso do JupyterLab no ambiente Anaconda Navigator para a distribuição Linux.
 Você pode executar este projeto com a versão online do JupyterLab ou Jupyter Notebook: https://jupyter.org/try
@@ -49,3 +49,20 @@ anaconda-navigator
 Sugiro criar um novo ambiente para manter o seu ambiente de teste isolado dos outros ambientes. Pois, isso vai previnir o conflito de versões de bibliotecas instaladas.
 ![anaconda-navigator](https://github.com/user-attachments/assets/d4a9ebcd-5cbd-4cee-b9e4-a8725848f6af)
 
+### Ecolha o Jupyterlab ou o Jupyter Notebook
+Eu particularmente prefiro o Jupyterlab porque é possível visualizar sua pasta com os arquivos que estão sendo criados ou utilizados.
+
+### Clone este repositório usando o terminal de sua preferência
+```
+git clone https://github.com/rafaeloliveiralopes/rental_price_prevision_model.git
+```
+### Use o terminal para navegar até o repositório baixado
+```
+cd nome-do-repositorio-clonado
+```
+
+### Instale as dependências usadas neste projeto
+Este projeto possui um documento chamado requirements.txt. Todas as bibliotecas e frameworks com as versões correspondentes para este projeto, serão instaladas no seu ambiente com o comando abaixo.
+```
+pip install -r requirements.txt
+```
