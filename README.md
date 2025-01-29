@@ -50,7 +50,7 @@ Sugiro criar um novo ambiente para manter o seu ambiente de teste isolado dos ou
 ![anaconda-navigator](https://github.com/user-attachments/assets/d4a9ebcd-5cbd-4cee-b9e4-a8725848f6af)
 
 ### Ecolha o Jupyterlab ou o Jupyter Notebook
-Eu particularmente prefiro o Jupyterlab porque é possível visualizar sua pasta com os arquivos que estão sendo criados ou utilizados.
+Eu particularmente prefiro o Jupyterlab porque é possível visualizar as pastas e arquivos que estão sendo criados ou utilizados.
 
 ### Clone este repositório usando o terminal de sua preferência
 ```
@@ -66,3 +66,12 @@ Este projeto possui um documento chamado requirements.txt. Todas as bibliotecas 
 ```
 pip install -r requirements.txt
 ```
+### Dê dois cliques no arquivo `ret_price_model_pred.ipynb`
+Após abrir o notebook execute as células com o atalho `shift+enter` ou se desejar executar todas as cécluas de uma vez, clique na aba run (executar) e escolha executar todas as celulas.
+
+## Contato
+
+Dúvidas ou sugestões? Entre em contato:
+
+- **Email:** rafaellopes.dev@gmail.com
+- **LinkedIn:** [Rafael Lopes](https://www.linkedin.com/in/rafael-lopes-desenvolvedor-fullstack/)
