@@ -5,17 +5,17 @@ utilizando as métricas de avaliação que mais façam sentido para o problema.
 
 ## Questões que este desafio visa responder
 
-- [ ] 1- Faça uma análise exploratória dos dados (EDA), demonstrando as principais características entre as variáveis e apresentando algumas hipóteses de negócio relacionadas.
-- [ ] 2- Responda também às seguintes perguntas:
+- [x] 1- Faça uma análise exploratória dos dados (EDA), demonstrando as principais características entre as variáveis e apresentando algumas hipóteses de negócio relacionadas.
+- [x] 2- Responda também às seguintes perguntas:
 - a. Supondo que uma pessoa esteja pensando em investir em um apartamento para alugar na plataforma, onde seria mais indicada a compra?
 - b. O número mínimo de noites e a disponibilidade ao longo do ano interferem no preço?
 - c. Existe algum padrão no texto do nome do local para lugares de mais alto valor?
-- [ ] 3- Explique como você faria a previsão do preço a partir dos dados.
-- [ ] 4- Quais variáveis e/ou suas transformações você utilizou e por quê?
-- [ ] 5- Qual tipo de problema estamos resolvendo (regressão, classificação)?
+- [x] 3- Explique como você faria a previsão do preço a partir dos dados.
+- [x] 4- Quais variáveis e/ou suas transformações você utilizou e por quê?
+- [x] 5- Qual tipo de problema estamos resolvendo (regressão, classificação)?
 - [ ] 6- Qual modelo melhor se aproxima dos dados e quais seus prós e contras?
-- [ ] 7- Qual medida de performance do modelo foi escolhida e por quê?
-- [ ] 8- Supondo um apartamento com as seguintes características:
+- [x] 7- Qual medida de performance do modelo foi escolhida e por quê?
+- [x] 8- Supondo um apartamento com as seguintes características:
 
 {'id': 2595,
  'nome': 'Skylit Midtown Castle',
